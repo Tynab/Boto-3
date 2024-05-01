@@ -1,2 +1,2 @@
-# Boto-3
- Boto 3
+# BOTO 3
+This project provides tools for efficiently querying and processing data stored in CSV format on AWS S3 using Python. It is ideal for users looking to perform custom data retrievals without downloading entire datasets.
